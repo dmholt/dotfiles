@@ -1,4 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/Users/diegoholt/.bash_sessions'
-let g:netrw_dirhist_2='/Users/diegoholt/Code/482/dlheard.dmholt.jordandr.3/.git'
