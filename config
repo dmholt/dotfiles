@@ -1,0 +1,6 @@
+Host caen
+	HostName login-course.engin.umich.edu
+	User dmholt
+Host 482
+	HostName caen-vnc-vm01.engin.umich.edu
+	User dmholt	
