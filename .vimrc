@@ -1,1 +1,3 @@
-/Users/diegoholt/.vimrc
+syntax enable
+set background=dark
+colorscheme solarized

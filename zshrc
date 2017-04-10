@@ -1,1 +1,0 @@
-/Users/diegoholt/.zshrc
